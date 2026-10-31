@@ -232,3 +232,7 @@ https://drive.google.com/file/d/1p6OwxbmFQ3rWV5mkC4zu7BoeGMdh778l/view?usp=shari
 ### Transformers
 
 https://drive.google.com/file/d/1nwpt-SQA_btPl4742pA2pVZCGA3Y8KiS/view?usp=sharing
+
+# Script
+
+https://colab.research.google.com/drive/1WliEw4q7T04TviOOuIOUuL0YInokbOGU
