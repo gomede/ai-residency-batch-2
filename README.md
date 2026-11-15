@@ -239,6 +239,10 @@ https://drive.google.com/file/d/1Z_oFeWjiXnP4-nCNuf-_HO6vssSRXqYi/view?usp=shari
 
 https://drive.google.com/file/d/1zHl5cB4ofckfhz-IooA25lmRJOMQQeTF/view?usp=sharing
 
+### Embeddings
+
+https://drive.google.com/file/d/1XtXF-37IRGNMJuBvIcUrYXNDg5ft44LA/view?usp=sharing
+
 # Script
 
 https://colab.research.google.com/drive/1WliEw4q7T04TviOOuIOUuL0YInokbOGU
